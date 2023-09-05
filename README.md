@@ -15,11 +15,16 @@
 ![image](img/capa.png)
 
 ## 📋  descrição
+ o site e como se foçe uma capa
 
 ## 🔧funcionalidades
+o site funciona como uma capa
 
 ### 🛠️tecnologias utilizadas
+html css readme github vs code e bootstrap
 
 ## 📄fontes consultadas 
+professor leo
 
 ## ✒️altores
+eu :)
