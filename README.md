@@ -11,7 +11,8 @@
 
 [altores](#altores)
 
-# 🚀 projeto - portifolio para escrita do 
+# 🚀 projeto - portifolio para escrita do readme
+![image](img/capa.png)
 
 ## 📋  descrição
 
