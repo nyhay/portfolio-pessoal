@@ -11,14 +11,14 @@
 
 [altores](#altores)
 
-# projeto - portifolio para escrita do 
+# 🚀 projeto - portifolio para escrita do 
 
-## descrição
+## 📋  descrição
 
-## funcionalidades
+## 🔧funcionalidades
 
-### tecnologias utilizadas
+### 🛠️tecnologias utilizadas
 
-## fontes consultadas 
+## 📄fontes consultadas 
 
-## altores
+## ✒️altores
