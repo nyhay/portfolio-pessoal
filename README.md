@@ -13,7 +13,7 @@
 
 [tecnologias utilizadas]
 
-(https://github.com/nyhay/portfolio-pessoal#tecnologias-utilizadas)
+(#tecnologias-utilizadas)
 
 [fontes consultadas]
 
@@ -21,7 +21,7 @@
 
 [altores]
 
-(https://github.com/nyhay/portfolio-pessoal#altores)
+(#altores)
 
 # projeto - portifolio para escrita do 
 
