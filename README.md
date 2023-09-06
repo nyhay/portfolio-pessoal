@@ -21,10 +21,10 @@
 o site funciona como uma capa
 
 ### 🛠️tecnologias utilizadas
-html css readme github vs code e bootstrap
+html css readme github vs code google e bootstarp
 
 ## 📄fontes consultadas 
-professor leo
+googloe
 
 ## ✒️altores
-eu :)
+![image](img/leo.png)
