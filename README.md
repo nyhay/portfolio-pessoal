@@ -24,7 +24,7 @@ o site funciona como uma capa
 html css readme github vs code google e bootstarp
 
 ## 📄fontes consultadas 
-googleebootstrap
+google e bootstrap
 
 ## ✒️altores
 ![image](img/leo.png)
